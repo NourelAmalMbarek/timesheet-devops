@@ -62,6 +62,7 @@ public class User implements Serializable {
 				+ dateNaissance + ", role=" + role + "]";
 	}
 
+	//commentaire
 
 	public Long getId() {
 		return id;
